@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="toolbar_segunda_actividad">Segunda Actividad</string>
+    <string name="titulo_fav">Favorito</string>
+    <string name="boton_segunda_actividad">Ir a la segunda actividad</string>
+    <string name="menu_compartir">compartir</string>
+</resources>
